@@ -38,6 +38,8 @@
 
 ### 🛠️ Tech Stack
 
+<div align="center">
+
 <details open>
   <summary><b>💻 Languages & Core</b></summary>
   <br/>
@@ -77,6 +79,7 @@
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,linux" alt="DevOps & Cloud" />
   </p>
 </details>
+
 <details open>
   <summary><b>🧰 Tools</b></summary>
   <br/>
@@ -92,6 +95,8 @@
     <img src="https://skillicons.dev/icons?i=figma,canva" alt="Design Tools" />
   </p>
 </details>
+
+</div>
 
 ---
 
