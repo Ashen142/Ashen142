@@ -81,15 +81,7 @@ I am a passionate **Software Engineering Undergraduate** specializing in **Full-
 ### 📊 GitHub Statistics & Performance
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-stats-extended.vercel.app/api?username=Ashen142&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="95%" alt="Ashen's GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ashen142&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="95%" alt="Top Languages" />
-      </td>
-    </tr>
+
     <tr height="20"></tr>
     <tr>
       <td align="center" width="50%">
