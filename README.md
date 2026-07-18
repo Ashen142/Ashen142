@@ -81,13 +81,7 @@ I am a passionate **Software Engineering Undergraduate** specializing in **Full-
 ### 📊 GitHub Statistics & Performance
 
 <div align="center">
-    <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://streak-stats.demolab.com?user=Ashen142&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+     <img src="https://streak-stats.demolab.com?user=Ashen142&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -129,10 +123,10 @@ I am a passionate **Software Engineering Undergraduate** specializing in **Full-
 ### 🤝 Connect with me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="_blank">
+  <a href="https://linkedin.com/in/ashen-pramuditha-931879378" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:ashenpramuditha28@gmail.com" target="_blank">
+  <a href="mailto:[EMAIL_ADDRESS]" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/Ashen142" target="_blank">
