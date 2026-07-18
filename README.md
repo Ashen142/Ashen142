@@ -38,7 +38,6 @@
 
 ### 🛠️ Tech Stack
 
-<<<<<<< HEAD
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="60%" valign="top" align="center">
@@ -99,62 +98,6 @@
     </td>
   </tr>
 </table>
-=======
-<details open>
-  <summary><b>💻 Languages & Core</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp" alt="Languages" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>🎨 Frontend & Mobile Development</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,tailwind" alt="Frontend and Mobile" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>⚙️ Backend & API Development</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,spring" alt="Backend" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>💾 Databases & Caching</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>☁️ DevOps & Cloud</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,linux" alt="DevOps & Cloud" />
-  </p>
-</details>
-<details open>
-  <summary><b>🧰 Tools</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,vscode,idea,postman" alt="Tools" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>🎨 Design Tools</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=figma,canva" alt="Design Tools" />
-  </p>
-</details>
->>>>>>> parent of 986a485 (Update README.md)
 
 ---
 
