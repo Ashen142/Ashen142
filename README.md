@@ -38,60 +38,64 @@
 
 ### 🛠️ Tech Stack
 
-<details open>
-  <summary><b>💻 Languages & Core</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp" alt="Languages" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>🎨 Frontend & Mobile Development</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,tailwind" alt="Frontend and Mobile" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>⚙️ Backend & API Development</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,spring" alt="Backend" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>💾 Databases & Caching</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>☁️ DevOps & Cloud</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,linux" alt="DevOps & Cloud" />
-  </p>
-</details>
-<details open>
-  <summary><b>🧰 Tools</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,vscode,idea,postman" alt="Tools" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>🎨 Design Tools</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=figma,canva" alt="Design Tools" />
-  </p>
-</details>
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="60%" valign="top">
+      <details open>
+        <summary><b>💻 Languages & Core</b></summary>
+        <br/>
+        <p align="left">
+          <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp" alt="Languages" />
+        </p>
+      </details>
+      <details open>
+        <summary><b>🎨 Frontend & Mobile Development</b></summary>
+        <br/>
+        <p align="left">
+          <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,tailwind" alt="Frontend and Mobile" />
+        </p>
+      </details>
+      <details open>
+        <summary><b>⚙️ Backend & API Development</b></summary>
+        <br/>
+        <p align="left">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,spring" alt="Backend" />
+        </p>
+      </details>
+      <details open>
+        <summary><b>💾 Databases & Caching</b></summary>
+        <br/>
+        <p align="left">
+          <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases" />
+        </p>
+      </details>
+      <details open>
+        <summary><b>☁️ DevOps & Cloud</b></summary>
+        <br/>
+        <p align="left">
+          <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,linux" alt="DevOps & Cloud" />
+        </p>
+      </details>
+      <details open>
+        <summary><b>🧰 Tools</b></summary>
+        <br/>
+        <p align="left">
+          <img src="https://skillicons.dev/icons?i=git,vscode,idea,postman" alt="Tools" />
+        </p>
+      </details>
+      <details open>
+        <summary><b>🎨 Design Tools</b></summary>
+        <br/>
+        <p align="left">
+          <img src="https://skillicons.dev/icons?i=figma,canva" alt="Design Tools" />
+        </p>
+      </details>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVtMmhuNDRrM2g3NzlqcHlqbGc1a3JvN3A3dHM0Z3BnOWg2bzdvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7FrOU9tPbgAZtxV5mb/giphy.gif" width="100%" alt="Tech Stack Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
