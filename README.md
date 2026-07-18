@@ -18,7 +18,7 @@
 
 I am a passionate **Software Engineering Undergraduate** specializing in **Full-Stack Web & Mobile App Development**. I am deeply driven by a desire to leverage my software engineering knowledge to build impactful, real-world solutions that solve societal problems and make a positive difference. Currently, my core focus is building responsive web platforms, cross-platform mobile applications, and high-performance backends.
 
-- 🎓 Currently pursuing my **Bachelor of Computing Honours in Software Engineering** (in short, **BComp (Hons) SE**).
+- 
 - 💡 Passionate about **solving societal problems** and creating positive impact using technology.
 - 💻 Specialized in **Full-Stack Development** (React, Next.js, Node.js, Java / Spring Boot).
 - 📱 Proficient in building modern **Mobile Applications** (Flutter, React Native).
@@ -67,6 +67,39 @@ I am a passionate **Software Engineering Undergraduate** specializing in **Full-
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,linux,git,vscode,idea,figma,postman" alt="DevOps & Tools" />
   </p>
 </details>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+  <table border="0" cellpadding="10">
+    <tr>
+      <td>
+        <h3>🍽️ AI Restaurant OS</h3>
+        <p>A smart, AI-powered restaurant management system designed for high concurrency and automation.</p>
+        <p><code>Spring Boot</code> <code>React</code> <code>Docker</code> <code>AI</code></p>
+      </td>
+      <td>
+        <h3>📱 Smart Logistics Mobile App</h3>
+        <p>A cross-platform mobile application for fleet tracking, driver dispatch, and route optimization.</p>
+        <p><code>Flutter</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Maps API</code></p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>💈 Salon SaaS Platform</h3>
+        <p>A multi-tenant salon management software featuring booking automation and dashboard stats.</p>
+        <p><code>Next.js</code> <code>Spring Boot</code> <code>MySQL</code></p>
+      </td>
+      <td>
+        <h3>🌐 Interactive 3D Portfolio</h3>
+        <p>A cutting-edge, interactive personal portfolio website showcasing 3D graphics.</p>
+        <p><code>Three.js</code> <code>React</code> <code>TailwindCSS</code></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
