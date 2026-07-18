@@ -18,7 +18,7 @@
 
 I am a passionate **Software Engineering Undergraduate** specializing in **Full-Stack Web & Mobile App Development**. I am deeply driven by a desire to leverage my software engineering knowledge to build impactful, real-world solutions that solve societal problems and make a positive difference. Currently, my core focus is building responsive web platforms, cross-platform mobile applications, and high-performance backends.
 
-- 🎓 Currently pursuing my **BSc (Hons) in Software Engineering**.
+- 🎓 Currently pursuing my **Bachelor of Computing Honours in Software Engineering** (in short, **BComp (Hons) SE**).
 - 💡 Passionate about **solving societal problems** and creating positive impact using technology.
 - 💻 Specialized in **Full-Stack Development** (React, Next.js, Node.js, Java / Spring Boot).
 - 📱 Proficient in building modern **Mobile Applications** (Flutter, React Native).
