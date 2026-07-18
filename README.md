@@ -1,6 +1,5 @@
-<img src="https://64.media.tumblr.com/4d4105d4215d8b932739af86c3803c45/tumblr_oa7gxl9n9h1u5j5bjo1_500.gif" alt="👋 Hi there! I'm Ashen" title="👋 Hi there! I'm Ashen"/>
-
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Ashen+👋" alt="Hi there! I'm Ashen" />
   <h3>🚀 Software Engineering Undergraduate | Full-Stack Web & Mobile Developer | DevOps Learner</h3>
   
   <p align="center">
