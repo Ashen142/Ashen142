@@ -84,10 +84,10 @@ I am a passionate **Software Engineering Undergraduate** specializing in **Full-
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-stats-extended.vercel.app/api?username=Ashen142&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="95%" alt="Ashen's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Ashen142&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="95%" alt="Ashen's GitHub Stats" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ashen142&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="95%" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashen142&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="95%" alt="Top Languages" />
       </td>
     </tr>
     <tr height="20"></tr>
@@ -96,7 +96,7 @@ I am a passionate **Software Engineering Undergraduate** specializing in **Full-
         <img src="https://streak-stats.demolab.com?user=Ashen142&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Streak" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-trophies.devomb.com/?username=Ashen142&theme=tokyonight&no-frame=true&column=3" width="95%" alt="GitHub Trophies" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Ashen142&theme=tokyonight&no-frame=true&column=3" width="95%" alt="GitHub Trophies" />
       </td>
     </tr>
   </table>
@@ -141,7 +141,7 @@ I am a passionate **Software Engineering Undergraduate** specializing in **Full-
 ### 🤝 Connect with me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/ashen-pramuditha-931879378/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ashenpramuditha28@gmail.com" target="_blank">
