@@ -75,10 +75,17 @@
 </details>
 
 <details open>
-  <summary><b>☁️ DevOps, Cloud & Tools</b></summary>
+  <summary><b>☁️ DevOps & Cloud</b></summary>
   <br/>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,linux,git,vscode,idea,postman" alt="DevOps & Tools" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,linux" alt="DevOps & Cloud" />
+  </p>
+</details>
+<details open>
+  <summary><b>🧰 Tools</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=git,vscode,idea,postman" alt="Tools" />
   </p>
 </details>
 
