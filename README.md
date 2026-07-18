@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hello there, I'm Ashen! 👋
-### 🚀 Software Engineering Undergraduate | Full-Stack Web & Mobile Developer
+### 🚀 Software Engineering Undergraduate | Full-Stack Web & Mobile Developer | DevOps Learner
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Mobile+App+Developer;Software+Engineering+Undergraduate;Exploring+DevOps+%26+Cloud" alt="Typing SVG" />
