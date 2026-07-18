@@ -81,8 +81,7 @@ I am a passionate **Software Engineering Undergraduate** specializing in **Full-
 ### 📊 GitHub Statistics & Performance
 
 <div align="center">
-
-    <tr height="20"></tr>
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td align="center" width="50%">
         <img src="https://streak-stats.demolab.com?user=Ashen142&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Streak" />
