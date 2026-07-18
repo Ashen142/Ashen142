@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Ashen" title="👋 Hi there! I'm Ashen"/>
+<img src="https://64.media.tumblr.com/4d4105d4215d8b932739af86c3803c45/tumblr_oa7gxl9n9h1u5j5bjo1_500.gif" alt="👋 Hi there! I'm Ashen" title="👋 Hi there! I'm Ashen"/>
 
 <div align="center">
   <h3>🚀 Software Engineering Undergraduate | Full-Stack Web & Mobile Developer | DevOps Learner</h3>
