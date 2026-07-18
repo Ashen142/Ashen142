@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 60" width="100%" height="60" fill="none">
+  <style>
+    @keyframes jump {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-12px); }
+    }
+    .j-letter {
+      font-family: 'Fira Code', monospace, sans-serif;
+      font-size: 32px;
+      font-weight: 800;
+      fill: #39D353;
+      animation: jump 1.2s infinite ease-in-out;
+    }
+    .jl-1 { animation-delay: 0.05s; }
+    .jl-2 { animation-delay: 0.10s; }
+    .jl-3 { animation-delay: 0.15s; }
+    .jl-4 { animation-delay: 0.20s; }
+    .jl-5 { animation-delay: 0.25s; }
+    .jl-6 { animation-delay: 0.30s; }
+    .jl-7 { animation-delay: 0.35s; }
+    .jl-8 { animation-delay: 0.40s; }
+    .jl-9 { animation-delay: 0.45s; }
+    .jl-10 { animation-delay: 0.50s; }
+    .jl-11 { animation-delay: 0.55s; }
+    .jl-12 { animation-delay: 0.60s; }
+    .jl-13 { animation-delay: 0.65s; }
+    .jl-14 { animation-delay: 0.70s; }
+    .jl-15 { animation-delay: 0.75s; }
+    .jl-16 { animation-delay: 0.80s; }
+    .jl-17 { animation-delay: 0.85s; }
+    .jl-18 { animation-delay: 0.90s; }
+    .jl-19 { animation-delay: 0.95s; }
+    .jl-20 { animation-delay: 1.00s; }
+  </style>
+  <g transform="translate(110, 42)">
+    <text class="j-letter jl-1" x="0">H</text>
+    <text class="j-letter jl-2" x="20">i</text>
+    <text class="j-letter jl-3" x="35"> </text>
+    <text class="j-letter jl-4" x="50">t</text>
+    <text class="j-letter jl-5" x="68">h</text>
+    <text class="j-letter jl-6" x="88">e</text>
+    <text class="j-letter jl-7" x="108">r</text>
+    <text class="j-letter jl-8" x="126">e</text>
+    <text class="j-letter jl-9" x="146">,</text>
+    <text class="j-letter jl-10" x="160"> </text>
+    <text class="j-letter jl-11" x="175">I</text>
+    <text class="j-letter jl-12" x="190">'</text>
+    <text class="j-letter jl-13" x="200">m</text>
+    <text class="j-letter jl-14" x="225"> </text>
+    <text class="j-letter jl-15" x="240">A</text>
+    <text class="j-letter jl-16" x="260">s</text>
+    <text class="j-letter jl-17" x="278">h</text>
+    <text class="j-letter jl-18" x="298">e</text>
+    <text class="j-letter jl-19" x="318">n</text>
+    <text class="j-letter jl-20" x="345">👋</text>
+  </g>
+</svg>
