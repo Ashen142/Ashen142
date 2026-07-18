@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Ashen+👋" alt="Hi there! I'm Ashen" />
+  <img src="./greetings.svg" width="100%" alt="Hi there, I'm Ashen!" />
+  
   <h3>🚀 Software Engineering Undergraduate | Full-Stack Web & Mobile Developer | DevOps Learner</h3>
   
   <p align="center">
