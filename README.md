@@ -105,20 +105,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashen142&theme=dracula" alt="Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashen142&theme=dracula" alt="GitHub profile contribution summary" />
-</p>    
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashen142&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20Time-3817%20hrs%2020%20mins-blue?style=flat" alt="Views" />
-</p>
-
-
-
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
 <tr>
 
