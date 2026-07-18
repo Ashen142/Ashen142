@@ -101,16 +101,29 @@
 
 ### 📊 GitHub Statistics & Performance
 
-<div align="center">
-     <img src="https://streak-stats.demolab.com?user=Ashen142&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashen142&theme=dracula" alt="Streak" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashen142&theme=dracula" alt="GitHub profile contribution summary" />
+</p>    
 
-<div align="center">
-  <h3>📈 Activity Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashen142&theme=tokyonight&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ashen142&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Time-3817%20hrs%2020%20mins-blue?style=flat" alt="Views" />
+</p>
+
+
+
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr>
+
+<!-- LEFT: COLLAB -->
+<td width="33%" valign="top">
 
 ---
 
