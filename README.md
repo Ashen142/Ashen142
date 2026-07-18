@@ -1,28 +1,42 @@
+<p align="center">
+  <a href="https://github.com/Ashen142">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Ashen%20Pramuditha&fontSize=65&animation=fadeIn&theme=tokyonight" width="100%" alt="Header Banner" />
+  </a>
+</p>
+
 <div align="center">
+  <h3>🚀 Software Engineering Undergraduate | Full-Stack Web & Mobile Developer | DevOps Learner</h3>
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Mobile+App+Developer;Software+Engineering+Undergraduate;Exploring+DevOps+%26+Cloud" alt="Typing SVG" />
+  </p>
 
-# Hello there, I'm Ashen! 👋
-### 🚀 Software Engineering Undergraduate | Full-Stack Web & Mobile Developer | DevOps Learner
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Mobile+App+Developer;Software+Engineering+Undergraduate;Exploring+DevOps+%26+Cloud" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashen142&color=39D353&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Ashen142&color=39D353&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  </p>
+</div>
 
 ---
 
 ### 💫 About Me
-</div>
 
-I am a passionate **Software Engineering Undergraduate** specializing in **Full-Stack Web & Mobile App Development**. I am deeply driven by a desire to leverage my software engineering knowledge to build impactful, real-world solutions that solve societal problems and make a positive difference. Currently, my core focus is building responsive web platforms, cross-platform mobile applications, and high-performance backends.
-
-- 🎓 Currently pursuing my **BComp (Hons) in Software Engineering**.
-- 💡 Passionate about **solving societal problems** and creating positive impact using technology.
-- 💻 Specialized in **Full-Stack Development** (React, Next.js, Node.js, Java / Spring Boot).
-- 📱 Proficient in building modern **Mobile Applications** (Flutter, React Native).
-- 🌱 Recently started learning **DevOps fundamentals** (Docker, basic CI/CD, AWS) as a DevOps Learner.
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="60%" valign="top">
+      <p>I am a passionate <b>Software Engineering Undergraduate</b> specializing in <b>Full-Stack Web & Mobile App Development</b>. I am deeply driven by a desire to leverage my software engineering knowledge to build impactful, real-world solutions that solve societal problems and make a positive difference. Currently, my core focus is building responsive web platforms, cross-platform mobile applications, and high-performance backends.</p>
+      <ul>
+        <li>🎓 Currently pursuing my <b>BComp (Hons) in Software Engineering</b>.</li>
+        <li>💡 Passionate about <b>solving societal problems</b> and creating positive impact using technology.</li>
+        <li>💻 Specialized in <b>Full-Stack Development</b> (React, Next.js, Node.js, Java / Spring Boot).</li>
+        <li>📱 Proficient in building modern <b>Mobile Applications</b> (Flutter, React Native).</li>
+        <li>🌱 Recently started learning <b>DevOps fundamentals</b> (Docker, basic CI/CD, AWS) as a DevOps Learner.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJ1MXV6cXZvYzRhNDJ4b3Q1aDhkcmcwcjBxbms0dHYweXhsN3d3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="85%" alt="3D Coder Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
