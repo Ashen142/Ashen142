@@ -29,7 +29,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/kdFc8f6FFPp0A0g1G5/giphy.gif" width="90%" alt="3D Coder Animation" />
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVobGdwcWt4d2FkcWc3aXRiOHBkZ2p4ZDFhdnBlMjUycDRsbTY4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="90%" alt="3D Coder Animation" />
     </td>
   </tr>
 </table>
