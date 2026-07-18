@@ -16,13 +16,13 @@
 ### 💫 About Me
 </div>
 
-I am a passionate **Software Engineering Undergraduate** specializing in **Full-Stack Web & Mobile App Development**. My core focus is building responsive, user-friendly web platforms, cross-platform mobile applications, and high-performance backends. I've also recently started diving into DevOps and cloud infrastructures to complement my developer skill set.
+I am a passionate **Software Engineering Undergraduate** specializing in **Full-Stack Web & Mobile App Development**. I am deeply driven by a desire to leverage my software engineering knowledge to build impactful, real-world solutions that solve societal problems and make a positive difference. Currently, my core focus is building responsive web platforms, cross-platform mobile applications, and high-performance backends.
 
 - 🎓 Currently pursuing my **BSc (Hons) in Software Engineering**.
+- 💡 Passionate about **solving societal problems** and creating positive impact using technology.
 - 💻 Specialized in **Full-Stack Development** (React, Next.js, Node.js, Java / Spring Boot).
 - 📱 Proficient in building modern **Mobile Applications** (Flutter, React Native).
-- ⚙️ Skilled in designing RESTful APIs, database structures, and responsive layouts.
-- 🌱 Recently started learning **DevOps fundamentals** (Docker, basic CI/CD, AWS).
+- 🌱 Recently started learning **DevOps fundamentals** (Docker, basic CI/CD, AWS) as a DevOps Learner.
 
 ---
 
