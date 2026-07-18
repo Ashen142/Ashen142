@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://github.com/Ashen142">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Ashen%20Pramuditha&fontSize=65&animation=fadeIn&theme=tokyonight" width="100%" alt="Header Banner" />
-  </a>
-</p>
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Ashen" title="👋 Hi there! I'm Ashen"/>
 
 <div align="center">
   <h3>🚀 Software Engineering Undergraduate | Full-Stack Web & Mobile Developer | DevOps Learner</h3>
