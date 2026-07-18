@@ -1,10 +1,10 @@
 <div align="center">
 
 # Hello there, I'm Ashen! 👋
-### 🚀 Software Engineering Undergraduate | Full-Stack Developer | DevOps Enthusiast
+### 🚀 Software Engineering Undergraduate | Full-Stack Web & Mobile Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Building+AI-powered+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Mobile+App+Developer;Software+Engineering+Undergraduate;Exploring+DevOps+%26+Cloud" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,13 +16,13 @@
 ### 💫 About Me
 </div>
 
-I am a passionate **Software Engineering Undergraduate** with a keen interest in building scalable, high-performance web applications, cloud-native architectures, and AI-driven software. I love learning new tools, optimizing development workflows, and diving deep into DevOps.
+I am a passionate **Software Engineering Undergraduate** specializing in **Full-Stack Web & Mobile App Development**. My core focus is building responsive, user-friendly web platforms, cross-platform mobile applications, and high-performance backends. I've also recently started diving into DevOps and cloud infrastructures to complement my developer skill set.
 
 - 🎓 Currently pursuing my **BSc (Hons) in Software Engineering**.
-- 💻 Specialized in **Full-Stack Development** (Java / Spring Boot / React / Next.js / Node.js).
-- ☁️ Actively exploring **Cloud Computing**, **DevOps pipelines**, and **System Design**.
-- 🤖 Passionate about building **AI-powered microservices** and automating tasks.
-- 🎯 **Current Focus**: Mastering Kubernetes, AWS architecture, and design patterns.
+- 💻 Specialized in **Full-Stack Development** (React, Next.js, Node.js, Java / Spring Boot).
+- 📱 Proficient in building modern **Mobile Applications** (Flutter, React Native).
+- ⚙️ Skilled in designing RESTful APIs, database structures, and responsive layouts.
+- 🌱 Recently started learning **DevOps fundamentals** (Docker, basic CI/CD, AWS).
 
 ---
 
@@ -37,10 +37,10 @@ I am a passionate **Software Engineering Undergraduate** with a keen interest in
 </details>
 
 <details open>
-  <summary><b>🎨 Frontend Development</b></summary>
+  <summary><b>🎨 Frontend & Mobile Development</b></summary>
   <br/>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,tailwind" alt="Frontend and Mobile" />
   </p>
 </details>
 
@@ -64,7 +64,7 @@ I am a passionate **Software Engineering Undergraduate** with a keen interest in
   <summary><b>☁️ DevOps, Cloud & Tools</b></summary>
   <br/>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,nginx,linux,bash,git,vscode,idea,figma,postman" alt="DevOps & Tools" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,linux,git,vscode,idea,figma,postman" alt="DevOps & Tools" />
   </p>
 </details>
 
@@ -81,9 +81,9 @@ I am a passionate **Software Engineering Undergraduate** with a keen interest in
         <p><code>Spring Boot</code> <code>React</code> <code>Docker</code> <code>AI</code></p>
       </td>
       <td>
-        <h3>🚛 Smart Logistics</h3>
-        <p>An enterprise fleet management and logistics coordination system with real-time routing.</p>
-        <p><code>Node.js</code> <code>React</code> <code>AWS</code> <code>PostgreSQL</code></p>
+        <h3>📱 Smart Logistics Mobile App</h3>
+        <p>A cross-platform mobile application for fleet tracking, driver dispatch, and route optimization.</p>
+        <p><code>Flutter</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Maps API</code></p>
       </td>
     </tr>
     <tr>
@@ -143,19 +143,19 @@ I am a passionate **Software Engineering Undergraduate** with a keen interest in
     <td width="50%" valign="top">
       <h4>📚 What I'm Learning</h4>
       <ul>
-        <li>Advanced System Design & Microservices Architecture</li>
-        <li>Kubernetes orchestration & GitOps pipelines</li>
-        <li>AWS Cloud Architecture (Solutions Architect level)</li>
-        <li>Production-grade AI integration with Spring AI / LangChain</li>
+        <li>DevOps Fundamentals & Containerization (Docker)</li>
+        <li>Advanced State Management in Flutter & React Native</li>
+        <li>Cloud Architecture basics (AWS Essentials)</li>
+        <li>API Optimization & REST/GraphQL Best Practices</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🎯 Roadmap & Goals</h4>
       <ul>
-        <li>[ ] Deploy a multi-tenant SaaS application to production</li>
-        <li>[ ] Build and publish open-source developer tooling</li>
-        <li>[ ] Achieve AWS Solutions Architect Associate certification</li>
-        <li>[ ] Master reactive programming (Spring WebFlux)</li>
+        <li>[ ] Deploy a production-ready mobile app to App Store / Play Store</li>
+        <li>[ ] Build robust, full-stack microservices-based web applications</li>
+        <li>[ ] Learn CI/CD automation pipelines</li>
+        <li>[ ] Deepen understanding of Clean Architecture in mobile apps</li>
       </ul>
     </td>
   </tr>
