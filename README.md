@@ -102,15 +102,19 @@
 
 ### 📊 GitHub Statistics & Performance
 
-<p align="center">
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashen142/Ashen142/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashen142/Ashen142/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ashen142/Ashen142/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashen142&theme=dracula" alt="Streak" />
-</p>
-
-<table width="100%" border="0" cellspacing="10" cellpadding="0">
-<tr>
-
-<!-- LEFT: COLLAB -->
-<td width="33%" valign="top">
+</div>
 
 ---
 
