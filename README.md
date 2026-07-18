@@ -86,9 +86,6 @@ I am a passionate **Software Engineering Undergraduate** specializing in **Full-
       <td align="center" width="50%">
         <img src="https://streak-stats.demolab.com?user=Ashen142&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Streak" />
       </td>
-      <td align="center" width="50%">
-        <img src="https://github-trophies.devomb.com/?username=Ashen142&theme=tokyonight&no-frame=true&column=3" width="95%" alt="GitHub Trophies" />
-      </td>
     </tr>
   </table>
 </div>
