@@ -119,7 +119,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashen142&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ashen142&theme=dracula" alt="Streak" />
 </div>
 
 ---
