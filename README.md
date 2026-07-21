@@ -99,6 +99,12 @@
 </div>
 
 ---
+### 📅 Commit History & Contribution Graph
+
+<div align="center">
+  <!-- Interactive-style Commit Activity Chart -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashen142&theme=tokyo-night&hide_border=true&area=true" alt="Ashen142 commit graph" />
+</div>
 
 ### 📊 GitHub Statistics & Performance
 
