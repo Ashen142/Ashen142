@@ -119,7 +119,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ashen142&theme=dracula" alt="Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashen142&theme=dracula" alt="GitHub Stats" />
 </div>
 
 ---
