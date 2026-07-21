@@ -119,7 +119,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashen142&theme=dracula" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Ashen142&theme=dracula" alt="Streak" />
 </div>
 
 ---
